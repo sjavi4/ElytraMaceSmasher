@@ -1,1 +1,1 @@
-A utility mod that allows player using elytra to trigger smash attack in minecraft 1.21
+A client-side mod that allows player using elytra to trigger smash attack in minecraft 1.21
