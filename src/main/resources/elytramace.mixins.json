@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.autobot.elytramace.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "MixinMultiPlayerGameMode_MaceAttack"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
