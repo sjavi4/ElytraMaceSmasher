@@ -2,7 +2,7 @@ The mod automatically handled the process when player make a valid smash attack 
 
 How to use:
 1. Wearing elytra and holding Mace in mainhand
-2. player in flying and enough fall distances (> 1.5 blocks)
+2. player in flying with enough fall distances (> 1.5 blocks)
 3. manually attack an entity
 
 
