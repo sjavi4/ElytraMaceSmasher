@@ -1,4 +1,4 @@
-The mod automatically handled the process when player make a valid smash attack while wearing elytra.
+The mod let player make smash attack while surfing. 
 
 How to use:
 1. Wearing elytra and holding Mace in mainhand
